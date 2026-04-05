@@ -1,2 +1,0 @@
-# Architectural-Styles
-IT-arhitektura_predpriyatiya__PZ_03
